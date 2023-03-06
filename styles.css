@@ -1,0 +1,33 @@
+*{
+    color: #efefef;
+    text-align: center;
+}
+body{
+    background-color: rosybrown;
+}
+ul{
+    list-style-type:none;
+    text-align: center;
+    padding-inline-start: 0%;
+    font-size: 40pt;
+}
+a{
+    text-decoration: none;
+    color: #efefef;
+}
+.main-title , .Recipe-title{
+    font-size: 50pt;
+}
+.Description {
+    font-size: 40pt;    
+}
+.Description-body , .List-content {
+    font-size: 30pt;
+}
+.Recipe-title {   
+}
+.List-title {
+    font-size: 35pt;
+}
+.List-content {
+}
